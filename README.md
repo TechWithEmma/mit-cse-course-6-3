@@ -1,2 +1,2 @@
 # mit-cse
-MIT Computer Science and Engineering (6-3) - Notes, assignments and more
+MIT Computer Science and Engineering (Course 6-3) - Notes, assignments and more
