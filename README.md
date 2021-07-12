@@ -16,24 +16,12 @@ Reviewed | Code | Subject
 ||[6.036](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-036-introduction-to-machine-learning-fall-2020/) | Introduction to Machine Learning
 ||[6.045[J]](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/) | Automata, Computability, and Complexity
 ||[6.046[J]](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/) | Design and Analysis of Algorithms
-||6.170 | Software Studio
-||6.172 | Performance Engineering of Software Systems
-||6.419[J] | Statistics, Computation and Applications
-||6.801 | Machine Vision
-||6.803 | The Human Intelligence Enterprise
-||6.804[J] | Computational Cognitive Science
-||6.814 | Database Systems
-||6.816 | Multicore Programming
-||6.817[J] | Principles of Autonomy and Decision Making
-||6.819 | Advances in Computer Vision
-||6.905 | Large-scale Symbolic Systems
-||6.035 | Computer Language Engineering
-||6.170 | Software Studio
-||6.172 | Performance Engineering of Software Systems
-||6.419[J] | Statistics, Computation and Applications
-||6.439[J] | Statistics, Computation and Applications
-||6.805[J] | Foundations of Information Policy (CI-M)
-||6.819 | Advances in Computer Vision
-||6.869 | Advances in Computer Vision
-||6.905 | Large-scale Symbolic Systems
-||6.945 | Large-scale Symbolic Systems
+||[6.170](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-170-software-studio-spring-2013/) | Software Studio
+||[6.172](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/) | Performance Engineering of Software Systems
+||[6.801](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-801-machine-vision-fall-2020/) | Machine Vision
+||[9.66[J]](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-66j-computational-cognitive-science-fall-2004/) | Computational Cognitive Science
+||[6.830](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) | Database Systems
+||[6.189](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-multicore-programming-primer-january-iap-2007/) | Multicore Programming
+||[16.410](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-410-principles-of-autonomy-and-decision-making-fall-2010/) | Principles of Autonomy and Decision Making
+||[6.035](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-spring-2010/) | Computer Language Engineering
+||[6.805](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/) | Foundations of Information Policy
