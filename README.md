@@ -2,10 +2,9 @@
 ## Bachelor of Science in Computer Science and Engineering
 http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 
-### *Departmental Program*
+[Description will be added]
 
-At least two subjects must be chosen in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
-
+### Departmental Program
 Review | Code | Departmental Requirements | Units
 :--|:--|:--|:--
 :heavy_check_mark: | 6.0001 | Introduction to Computer Science Programming in Python | 6 |
