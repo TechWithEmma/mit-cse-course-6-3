@@ -7,7 +7,7 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 ### Subjects
 Reviewed | Code | Subject
 :--|:--|:--
-:heavy_check_mark: | [6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | Introduction to Computer Science Programming in Python
+:hourglass: | [6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | Introduction to Computer Science Programming in Python
 || [6.042[J]](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) |	Mathematics for Computer Science
 ||[6.004](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/)| Computation Structures
 ||[6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)	| Introduction to Algorithms
