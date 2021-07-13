@@ -36,7 +36,6 @@ Reviewed | Code | Subject
 ||[6.092](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)|Introduction to Programming in Java
 ||[6.096](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/)|Introduction to C++
 ||[18.098](https://ocw.mit.edu/courses/mathematics/18-098-street-fighting-mathematics-january-iap-2008/)|Street-Fighting Mathematics
-||[6.170](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-170-laboratory-in-software-engineering-fall-2005/)|Laboratory in Software Engineering
 ||[6.171](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-171-software-engineering-for-web-applications-fall-2003/)|Software Engineering for Web Applications
 ||[18.337J](https://ocw.mit.edu/courses/mathematics/18-337j-parallel-computing-fall-2011/)|Parallel Computing
 ||[6.803](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-803-the-human-intelligence-enterprise-spring-2019/)|The Human Intelligence Enterprise
