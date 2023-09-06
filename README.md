@@ -12,7 +12,7 @@ Reviewed | Code | Subject
 ||[18.02](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/) | Multi-Variable Calculus
 ||[18.02](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/) | Physics II Electricity and magnetism
 ||[6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)|Introduction to Computer Science Programming in Python
-||[6.01SC](https://ocw.mit.edu/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)|Introduction to Electrical Engineering and Computer Science 1 Python
+||[6.01SC](https://ocw.mit.edu/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)|Introduction to Electrical Engineering and Computer Science 1
 ||[6.001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)|Structure and Interpretation of Computer Programs
 || [6.042[J]](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) |	Mathematics for Computer Science
 ||[6.004](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/)| Computation Structures
