@@ -8,6 +8,7 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 Reviewed | Code | Subject
 :--|:--|:--
 :hourglass: | [8.01](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/) | Physics 1 Classical Mechanics
+||[8.01](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/) | Physics 1 Classical Mechanics
 ||[6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)|Introduction to Computer Science Programming in Python
 ||[6.001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)|Structure and Interpretation of Computer Programs
 || [6.042[J]](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) |	Mathematics for Computer Science
